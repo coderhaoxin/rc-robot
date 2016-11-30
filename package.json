@@ -1,0 +1,22 @@
+{
+  "name": "rc-robot",
+  "private": true,
+  "version": "0.1.0",
+  "description": "remote call robot",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "",
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "repository": "coderhaoxin/rc-robot",
+  "keywords": [
+    "remote",
+    "call"
+  ],
+  "author": "haoxin",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0"
+  }
+}
